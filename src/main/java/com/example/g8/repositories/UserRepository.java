@@ -89,7 +89,7 @@ public class UserRepository {
      * @param month
      * @return
      */
-   /* public List<User> getByMonthBirthDay(String month){
+   public List<User> getByMonthBirthDay(String month){
         return userCrudRepository.findByMonthBirthtDay(month);
-    }*/      
+    }      
 }
